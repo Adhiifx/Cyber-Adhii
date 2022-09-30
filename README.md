@@ -6,7 +6,7 @@
 <h1 align="center">𝛪𝑇𝛧_𝛭𝛯_𝛥𝐷𝛨𝛪 ⃝💎</h1>
 <h3 align="center">A HACKER FROM INDIA</h3>
   
-  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+CYBER-ADHI+GIT;CREATED+BY+ADHI+SIR;I+AM+AN+ETHICAL HACKER')](https://git.io/typing-svg)
+  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+CYBER-ADHI+GIT;CREATED+BY+ADHI+SIR;I+AM+AN+ETHICAL+HACKER')](https://git.io/typing-svg)
 
 -'White Hat'
 
