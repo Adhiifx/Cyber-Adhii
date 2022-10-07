@@ -14,7 +14,7 @@
 
 - Reach Me **adhithyasanker8@gmail.com**
 
-- just a *begginer*
+- just a *_begginer_*
 - Real Name:𝛥𝐷𝛨𝛪𝛪💎
 
 <h3 align="left">*Flollow me*:</h3>
