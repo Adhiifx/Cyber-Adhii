@@ -4,7 +4,7 @@
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/lyfe0010/whatsapp-bot-md",
+	"repository": "https://github.com/Adhiifx/Cyber-Adhii",
 	"stack": "container",
 	"env": {
 		"ALWAYS_ONLINE": {
