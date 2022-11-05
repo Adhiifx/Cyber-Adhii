@@ -1,4 +1,4 @@
-### JES6I INSTA BOT
+### Adhi_8x INSTA BOT
 
 ### Setup
 
