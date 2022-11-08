@@ -8,7 +8,7 @@
 4. Click [FORK](https://github.com/Adhiifx/Cyber-Adhii/fork)
 5. Now [DEPLOY](https://levanter.up.railway.app/dmd)
 <p align="center">
-  <a href="https://www.instagram.com/https://instagram.com/jes6i.fx/"><img src="https://i.imgur.com/E1Eksog.jpeg/Bungee%20Shades.png?raw=true" width="500" alt="Profile"/> </a>
+  <a href="https://www.instagram.com/https://instagram.com/jes6i.fx/"><img src="https://i.imgur.com/Fr712kf.jpeg/Bungee%20Shades.png?raw=true" width="500" alt="Profile"/> </a>
 </p>
 
 
@@ -19,7 +19,7 @@
   
   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+JESTI+GIT;CREATED+BY+ADHI+8x;I+AM+AN+EDITOR+JOIN+DISCORD+FOR+MORE)](https://git.io/typing-svg)
 
-<h3 align="left">*Flollow me*:</h3>
+<h3 align="left">*Flollow Me*</h3>
 <p align="left">
 <a href="https://instagram.com/jestii.fx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jestii.fx" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/𝙅𝙀𝙎𝙏𝙄 𝙈𝙋⁴" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="𝙅𝙀𝙎𝙏𝙄 𝙈𝙋⁴" height="30" width="40" /></a>
