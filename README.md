@@ -1,4 +1,4 @@
-### Adhi_8x INSTA BOT
+### Adhi_8x REPO
 
 ### Setup
 
