@@ -8,5 +8,5 @@
 4. Click [FORK](https://github.com/Adhiifx/Cyber-Adhii/fork)
 5. Now [DEPLOY](https://levanter.up.railway.app/dmd)
 <p align="center">
-  <a href="https://www.instagram.com/_the_soul_rider_/"><img src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/Bungee%20Shades.png?raw=true" width="500" alt="Profile"/> </a>
+  <a href="https://www.instagram.com/https://instagram.com/jes6i.fx/"><img src="https://i.imgur.com/E1Eksog.jpeg/Bungee%20Shades.png?raw=true" width="500" alt="Profile"/> </a>
 </p>
