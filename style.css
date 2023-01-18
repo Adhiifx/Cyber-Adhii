@@ -1,12 +1,11 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(1.png) no-repeat;
+    background: url(1.jpg) no-repeat;
     background-size: cover;
   }
   .box{
     width: 450px;
-    background: rgba(0, 0, 0, 0.4);
     padding: 40px;
     text-align: center;
     margin: auto;
@@ -31,23 +30,3 @@ body{
   }
   .box p{
     text-align: justify;
-  }
-  ul{
-    margin: 0;
-    padding: 0;
-  }
-  .box li{
-    display: inline-block;
-    margin: 6px;
-    list-style: none;
-  }
-  .box li a{
-    color: white;
-    text-decoration: none;
-    font-size: 60px;
-    transition: all ease-in-out 250ms;
-  }
-  .box li a:hover{
-    color: #b9b9b9;
-  }
-  
