@@ -1,32 +1,32 @@
-body{
-    margin: 0;
-    padding: 0;
-    background: url(1.jpg) no-repeat;
-    background-size: cover;
-  }
-  .box{
-    width: 450px;
-    padding: 40px;
-    text-align: center;
-    margin: auto;
-    margin-top: 5%;
-    color: white;
-    font-family: 'Century Gothic',sans-serif;
-  }
-  .box-img{
-    border-radius: 50%;
-    width: 200px;
-    height: 200px;
-  }
-  .box h1{
-    font-size: 20px;
-    letter-spacing: 2px;
-    font-weight: 100;
-  }
-  .box h5{
-    font-size: 20px;
-    letter-spacing: 3px;
-    font-weight: 100;
-  }
-  .box p{
-    text-align: justify;
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script src="https://use.fontawesome.com/d1341f9b7a.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>Adhi Profile</title>
+  </head>
+  <body>
+<div class="box">
+  <img src="2.jpg" alt="" class="box-img">
+  <h2>Adhi 8x</h2>
+       <h3 align="left">About Me</h3>
+        <p>I'am Adhithya,15 Years Old,Deloper"Student</p>
+
+        <h3 align="left">Contact</h3>
+<p>Email: adhithyasanker8@gmail.com</p>
+<p>Whatsapp: 919074793563</p>
+
+      <h3 align="left">Experince</h3>
+<p>Just Started Learning</p>
+
+<h3 align="left">Skills</h3> 
+<p>Node js,Java Script,HTML,CSS</p>
+<li><a href="https://github.com/JES6I"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+<li><a href="https://instagram.com/ig.x_psycho_jester"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+<li><a href="https://wa.me/919074793563"><i class="fa fa-whatsapp" aria-hidden="true"></i></a></li>
+<h3 align="center">Lov youh all<3
+</ul>
+</div>
+</body>
+</html>
