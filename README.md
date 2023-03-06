@@ -1,6 +1,5 @@
 ### Adhi_8x REPO
 
-### Setup
 
 
 <h1> <p align="center">I Love You<3
