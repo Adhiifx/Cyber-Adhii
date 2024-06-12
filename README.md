@@ -5,7 +5,7 @@
 <h1> <p align="center">Luv you All<3
 
 <p align="center">
-  <a href="https://www.instagram.com/https://instagram.com/jes6i.fx/"><img src="<a href="https://ibb.co/tsCvYxB"><img src="https://i.ibb.co/tsCvYxB/image.jpg" alt="image" border="0"></a>" width="500" alt="Profile"/> </a> 
+  <a href="https://www.instagram.com/https://instagram.com/jes6i.fx/">img src="https://i.ibb.co/tsCvYxB/image.jpg" alt="image" border="0"></a>" width="500" alt="Profile"/> </a> 
 </p>
 
 
