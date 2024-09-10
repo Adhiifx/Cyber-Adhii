@@ -5,7 +5,7 @@
 <h1> <p align="center">Luv you All<3
 
 <p align="center">
-  <a href="https://github.com/JES6I/Cyber-Adhii"><img src="https://i.imgur.com/MClOeqe.jpeg">
+  <a href="https://github.com/JES6I/Cyber-Adhii"><img src="<a href="https://ibb.co/vwVhgkK"><img src="https://i.ibb.co/vwVhgkK/photo-2023-07-05-19-46-11.jpg" alt="photo-2023-07-05-19-46-11" border="0"></a>">
 </p>
 
 
