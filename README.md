@@ -5,8 +5,7 @@
 <h1> <p align="center">Luv you All<3
 
 <p align="center">
-  <a href="https://github.com/JES6I/Cyber-Adhii"><img src="<a href="https://ibb.co/vwVhgkK"><img src="<a href="https://ibb.co/vwVhgkK"><img src="https://i.ibb.co/NVtrQKH/photo-2023-07-05-19-46-11.jpg" alt="photo-2023-07-05-19-46-11" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload</a><br />"
-
+  <a href="https://github.com/JES6I/Cyber-Adhii"><img src="<a href="https://ibb.co/vwVhgkK"><img src="<a href="https://ibb.co/vwVhgkK"><img src="https://i.ibb.co/NVtrQKH/photo-2023-07-05-19-46-11.jpg" alt="photo-2023-07-05-19-46-11" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>
 
                                            
                                            
